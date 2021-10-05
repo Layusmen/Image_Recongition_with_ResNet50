@@ -1,1 +1,1 @@
-# YOLOV5_Electrical_Component_Detection
+# Electrical and Electronic Component Detection Using YOLOv5
