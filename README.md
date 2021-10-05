@@ -1,1 +1,1 @@
-# Electrical and Electronic Component Detection Using YOLOv5
+# Image Recongition with ResNet50
